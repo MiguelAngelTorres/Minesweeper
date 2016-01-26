@@ -1,5 +1,5 @@
 ########################################   MINESWEEPER    ###########################################.
-  Classic minesweeper made in C++ with variable rows and columns for terminal.
+  Classic minesweeper made in C++ with custom rows and columns for terminal.
 
   If you want to play you just need to download the files and use make to build the execution file. 
 Once open, you will have to specify how much arros, columns and mines do you want for your game.
